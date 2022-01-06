@@ -1,0 +1,53 @@
+body{
+    padding-top: 100px;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    display: inline;
+}
+
+p{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    padding-bottom: 18px;
+}
+
+#small-text{
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.orange-color{
+    color: palevioletred;
+}
+
+section{
+    display: flex;
+}
+
+.half-portion{
+    width: 50%;
+    margin-left: 150px;
+}
+
+.half-portion img{
+    max-width: 60%;
+    margin-top: 0;
+}
+
+.button{
+    text-decoration: none;
+    background-color: turquoise;
+    color: black;
+    font-weight: 700;
+    padding: 13px 40px;
+    border-radius: 6px;
+}
+
+.border-color{
+    color: palevioletred;
+    border-left: 2px solid;
+    border-image-slice: 1;
+}
