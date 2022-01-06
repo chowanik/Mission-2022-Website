@@ -1,5 +1,6 @@
 body{
     padding-top: 100px;
+    margin: 0;
 }
 
 .first-section{
@@ -144,6 +145,36 @@ p{
 .div-oneside img{
     max-width: 65%;
     padding-left: 80px;
+}
+
+#contact-us{
+    margin-left: 525px;
+    padding-bottom: 50px;
+    color: gray;
+}
+
+.contact-border{
+    border: 2px skyblue solid;
+    border-radius: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: linear-gradient(skyblue,pink);
+}
+
+.final-section{
+    background-image: url(images/shapes/shape-6.png);
+    background-position-x: right;
+    padding-bottom: 100px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
